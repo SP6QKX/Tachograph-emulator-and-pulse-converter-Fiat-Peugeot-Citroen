@@ -2,7 +2,6 @@ Tachograph emulator and pulse converter for most
 
 minibuses Fiat Peugeot Citroen
 
-=================================================================================================
 
 Hallo
 
