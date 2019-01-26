@@ -1,4 +1,5 @@
-Tachograph emulator and pulse converter Fiat Peugeot Citroen
+Tachograph emulator and pulse converter 
+for most Fiat Peugeot Citroen minibuses
 =================================================================================================
 
 Hallo
