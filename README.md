@@ -12,7 +12,7 @@ All make on small 8pin single-chip processor PIC12F508
 
 If you would like donate to support my projects and development 
 
-https://www.paypal.com/pools/c/8cTo5eOF8T
+https://paypal.me/sp6nip
 
 Many Thanks and Greetings . 
 
