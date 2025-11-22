@@ -10,16 +10,18 @@ used in most minibuses Fiat Peugeot Citroen .
 
 All make on small 8pin single-chip processor PIC12F508 
 
-If you would like donate to support my projects and development 
+More information on email  s p 6 q k x @ p o c z t a . f m
 
-https://paypal.me/sp6nip
+[https://qrz.com/DB/SP6QKX
 
-Many Thanks and Greetings . 
+https://www.facebook.com/sp6qkx
 
-<img src="https://raw.githubusercontent.com/SP6QKX/Tachograph-emulator-and-pulse-converter-Fiat-Peugeot-Citroen/master/1.jpg">
+https://www.winsell.pl
 
-ZWROT GOTÓWKI - CASHBACK  $$$$$  https://tiny.pl/9gh2m .
+https://www.sp6qkx.winsell.pl
 
-SHOPPING CASHBACK - Register and Get BONUS  $$$ .
+That all folks :) 
 
-Otrzymasz 10zł za otwarcie konta CashBack za zakupy w Internecie !
+Thanks and Greetings 
+
+vy73 Daniel SP6QKX )
