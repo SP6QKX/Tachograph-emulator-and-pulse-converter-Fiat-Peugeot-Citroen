@@ -12,7 +12,7 @@ All make on small 8pin single-chip processor PIC12F508
 
 More information on email  s p 6 q k x @ p o c z t a . f m
 
-[https://qrz.com/DB/SP6QKX
+https://qrz.com/DB/SP6QKX
 
 https://www.facebook.com/sp6qkx
 
